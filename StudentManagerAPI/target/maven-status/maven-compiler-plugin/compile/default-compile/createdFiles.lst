@@ -1,0 +1,6 @@
+com\example\StudentManagerAPI\dto\StudentRequest.class
+com\example\StudentManagerAPI\service\StudentService.class
+com\example\StudentManagerAPI\StudentManagerApiApplication.class
+com\example\StudentManagerAPI\model\Student.class
+com\example\StudentManagerAPI\controller\StudentController.class
+com\example\StudentManagerAPI\repository\StudentRepository.class
